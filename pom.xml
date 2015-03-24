@@ -4,7 +4,7 @@
   <artifactId>student</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Student Workspace</name>
-  <description>A workspace for students using coursware from teachingkidsprogramming.org</description>
+  <description>A workspace for students using courseware from teachingkidsprogramming.org</description>
   <dependencies>
   	<dependency>
   		<groupId>org.teachingkidsprogramming</groupId>
