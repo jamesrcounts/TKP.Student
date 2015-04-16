@@ -10,7 +10,7 @@
 		<dependency>
 			<groupId>org.teachingkidsprogramming</groupId>
 			<artifactId>TeachingKidsProgramming</artifactId>
-			<version>0.0.2</version>
+			<version>RELEASE</version>
 		</dependency>
 	</dependencies>
 	<build>
